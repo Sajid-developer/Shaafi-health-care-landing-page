@@ -5,4 +5,12 @@ A Health care Landing Page
 
 ## 📷 Screenshot
 
-![MasterHead](https://cdn.prod.website-files.com/63fc977c14aaea404dce4439/66bc6f54b83c13eccd57df7a_65967fbfae1419cd291e3c64_img12.webp)
+![Screenshot](Images/Screenshot.png)
+
+---
+
+## 🌟 Show Your Support 
+
+If you like this project, So Kindly give a star ⭐ to this repo to help others discover it.
+
+Thanks for visiting ! 🙏🏼💖
